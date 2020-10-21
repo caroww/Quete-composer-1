@@ -1,0 +1,10 @@
+{
+    "name": "caro/quete_composer",
+    "description": "Quete composer 1",
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\Wcs\\":"src/Wcs/"}
+    }
+
+
+}
